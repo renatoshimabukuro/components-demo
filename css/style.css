@@ -4,8 +4,13 @@
 /* --- Components design --- */
 @import url("components/container.css");
 /* TODO: import new components */
-
+@import url("components/avatar.css");
 /* --- Fonts & colors --- */
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
   padding-bottom: 200px;
