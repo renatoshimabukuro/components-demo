@@ -1,5 +1,6 @@
 .container {
   /* TODO */
-  width: 800px;
+  /* width: 800px; */
+  max-width: 1000px;
   margin: auto;
 }
